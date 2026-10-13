@@ -25,9 +25,9 @@ name: CI
 
 on:
   push:
-    branches: [Printer-Remote-Toner-Monitor]
+    branches: [main]
   pull_request:
-    branches: [Printer-Remote-Toner-Monitor]
+    branches: [main]
   workflow_dispatch:
 
 jobs:
