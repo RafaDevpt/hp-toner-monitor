@@ -35,9 +35,9 @@ name: CI
 
 on:
   push:
-    branches: [IT-Tool-Kit]
+    branches: [main]
   pull_request:
-    branches: [IT-Tool-Kit]
+    branches: [main]
   workflow_dispatch:
 
 jobs:
