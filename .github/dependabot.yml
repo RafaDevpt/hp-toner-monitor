@@ -1,0 +1,18 @@
+version: 2
+updates:
+  - package-ecosystem: pip
+    directory: "/Monitor-de-Toners-v2.0.0/Monitor-de-Toners/Linux"
+    schedule:
+      interval: weekly
+  - package-ecosystem: pip
+    directory: "/Monitor-de-Toners-v2.0.0/Monitor-de-Toners/Windows"
+    schedule:
+      interval: weekly
+  - package-ecosystem: pip
+    directory: "/Monitor-de-Toners-v2.0.0/Monitor-de-Toners/macOS"
+    schedule:
+      interval: weekly
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: weekly
