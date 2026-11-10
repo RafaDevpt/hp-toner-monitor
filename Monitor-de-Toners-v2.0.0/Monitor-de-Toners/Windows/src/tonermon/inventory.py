@@ -3,7 +3,7 @@
 PT-PT: Inventário de impressoras em Excel.
 
        Esta é a mudança central face à versão anterior, que trazia as 24
-       impressoras do Penha Longa escritas dentro do código. Isso tornava a
+       impressoras de um local concreto escritas dentro do código. Isso tornava a
        ferramenta impossível de partilhar (o inventário é informação interna) e
        obrigava a editar Python para acrescentar uma impressora.
 
@@ -14,7 +14,7 @@ PT-PT: Inventário de impressoras em Excel.
 EN-UK: Printer inventory in Excel.
 
        This is the central change from the previous version, which carried the
-       24 Penha Longa printers written inside the code. That made the tool
+       24 printers of one specific site written inside the code. That made the tool
        impossible to share (the inventory is internal information) and forced
        anyone adding a printer to edit Python.
 

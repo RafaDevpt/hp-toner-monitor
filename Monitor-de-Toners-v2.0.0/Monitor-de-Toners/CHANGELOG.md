@@ -89,8 +89,8 @@ num runner de Windows não prova nada sobre o que ela faz em Linux.
 
 - **Gama de rede interna substituída por uma de exemplo.** O
   `config.example.json`, o README, os exemplos da linha de comandos, os textos
-  de ajuda da interface, os testes e o Excel modelo traziam a gama real
-  `10.162.84.0/24`, e um dos testes trazia o hostname de uma impressora real.
+  de ajuda da interface, os testes e o Excel modelo traziam uma gama real,
+  e um dos testes trazia o hostname de uma impressora real.
   Num repositório público isso é topologia interna a mais; tudo passa a
   `192.168.1.0/24` e a nomes genéricos
 
